@@ -4,6 +4,6 @@
 **This is a bold statement**
 
 `This is highlighted code`
+<img src="Images/wsu-logo.svg">
 <p>This is new text</p>
 <p>This is a second paragraph</p>
-<img src="Images/wsu-logo.svg">
