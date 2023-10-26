@@ -4,3 +4,4 @@
 **This is a bold statement**
 
 `This is highlighted code`
+<p>This is new text</p>
